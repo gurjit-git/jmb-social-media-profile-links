@@ -18,7 +18,7 @@ define( 'JMB_PLUGIN_DIR', dirname( __FILE__ ) );
 define( 'JMB_PLUGIN_URL', plugins_url( '', __FILE__ ) );
 
 include(JMB_PLUGIN_DIR. '/inc/widget.php');
-include(JMB_PLUGIN_DIR. '/inc/custom.php');
+//include(JMB_PLUGIN_DIR. '/inc/custom.php');
 /**
  * Get the registered social profiles.
  *
